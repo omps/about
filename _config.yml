@@ -9,18 +9,15 @@
 title: Om Prakash Singh
 email: omps@omps.in
 description: > # this means to ignore newlines until "baseurl:"
-  Web Developer - System Administrator - Unix system Engineer
+  Linux Engineer - Python developer - Automation Expert - Devops Evnagelist
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.omps.in" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
 twitter_username: ohgnis
 github_username:  omps
-facebook_username: ompnix
-#instagram_username: beyonce
 stackoverflow_url: http://stackoverflow.com/users/2210670/omps
 googleplus_username: +OmPrakashomps
-#skype_username: echo123
 linkedin_url: https://in.linkedin.com/in/ompsingh
 
 # Address information
